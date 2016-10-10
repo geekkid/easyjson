@@ -1,4 +1,4 @@
 easyjson
 ========
 
-EasyJson allows easy access to Jackson data binding to Java collections
+EasyJson allows easy access of Jackson data binding to Java collections
